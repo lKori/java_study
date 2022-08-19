@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;AutoBot_pkg&apos; to &apos;AutoBot_pkg2&apos;&#x0D;&#x0A;- Original project: &apos;PriceRead2&apos;&#x0D;&#x0A;- Original element: &apos;PriceRead2/AutoBot_pkg&apos;&#x0D;&#x0A;- Renamed element: &apos;PriceRead2/AutoBot_pkg2&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;AutoBot_pkg&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/&lt;AutoBot_pkg" name="AutoBot_pkg2" qualified="false" references="true" stamp="1660109398237" textual="false" version="1.0"/>
+</session>

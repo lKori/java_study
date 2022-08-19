@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ExcelReadAndWrite/WriteExcel.java&apos; to &apos;ReadExcel.java&apos;" description="Rename resource &apos;WriteExcel.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WriteExcel.java" name="ReadExcel.java" stamp="1659510447531" updateReferences="true"/>
+</session>

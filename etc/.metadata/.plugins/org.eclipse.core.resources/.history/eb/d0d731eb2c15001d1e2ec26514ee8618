@@ -1,0 +1,10 @@
+
+public class SeleniumTest {
+	public static final String WEB_DRIVER_ID = "webdriver.chrome.driver";
+	public static final String WEB_DRIVER_PATH = "C:\\\\xampp\\\\htdocs\\\\study\\\\JAVA\\\\PriceRead\\\\exe\\\\chromedriver.exe";
+
+	public static void main(String[] args) {
+		
+	}
+
+}
